@@ -19,6 +19,6 @@ class thirdTask {
         return primeCheck(n, i + 1);
     }
     public static void main(String[] args){
-        System.out.println(primeCheck(11, 2));
+        System.out.println(primeCheck(7, 2));
     }
 }
