@@ -11,6 +11,6 @@ class fifthTask {
         }
     }
     public static void main(String[] args){
-        System.out.println(fibonacchi(17));
+        System.out.println(fibonacchi(46));
     }
 }
